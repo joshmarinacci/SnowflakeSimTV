@@ -255,7 +255,6 @@ class GameViewController: UIViewController, SCNSceneRendererDelegate {
         let scnView = self.view as! SCNView
         
         scnView.backgroundColor = UIColor(hue: CGFloat(ediff/10), saturation: 1, brightness: 1, alpha: 1)
-        scnView.backgroundColor.ge
         
     }
 
